@@ -1,0 +1,122 @@
+body {
+  margin: 0px;
+  
+}
+
+body h1 { 
+  color: #ffffff;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+}
+
+
+.navbar {
+  margin: 0px;
+  padding: 0px; 
+  max-width: 100%;
+}
+
+.navbar-brand {
+  background-color: #4aaaa5;
+  padding: 0 35px;  
+  height: 90px;
+}    
+
+.navbar-nav{
+  text-align: center;
+
+}
+.mainBackground {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    width: 100%;
+    background-color: silver;
+
+}
+
+.aboutMe {
+  margin: 35px;
+  padding:25px;
+  background-color: #ffffff;
+  word-wrap: break-word;
+}
+ 
+.aboutMe h2 {
+  position: relative;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: #4aaaa5; 
+  }
+
+.portfolio {
+  margin: 35px;
+  padding:25px;
+  background-color: #ffffff;
+}
+
+.portfolio h2 {
+  position: relative;
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: #4aaaa5;   
+}
+  .contact {
+    margin: 35px;
+    padding:25px;
+    background-color: #ffffff;
+  }
+  
+  .contact h2 {
+    position: relative;
+    font-family: Georgia, Times, "Times New Roman", serif;
+    font-weight: 700;
+    color: #4aaaa5;   
+}
+.connect h3 {
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: bold;
+  color: #4aaaa5;
+}
+
+.connectImages {
+    position: relative;
+}
+.connect {
+  margin: 35px;
+  padding:25px;
+  background-color: #ffffff;
+
+}
+
+.green-line {
+  background-color:#4aaaa5;
+  height: 10px;
+
+}
+  .site-footer {
+    background-color: #666666;
+    height: 70px;
+    width: 100%;
+  }
+
+  
+
+
+
+  
+/* Teal color (used for headings and backgrounds): #4aaaa5
+Regular font color (used for paragraphs and all text besides the headings): #777777
+Main header background color: #ffffff
+Main header border color: #cccccc
+Footer background color: #666666
+Main content background color: #ffffff
+Main content border color: #dddddd
+
+
+For heading fonts use font-family: 'Georgia', Times, Times New Roman, serif;.
+For all other fonts use 'Arial', 'Helvetica Neue', Helvetica, sans-serif;.
+
+The entire content area is 960px wide.
+The main section content is 650px wide.
+The sidebar is 270px wide.*/
